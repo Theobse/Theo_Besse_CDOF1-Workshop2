@@ -19,8 +19,8 @@
 
 **Q1 - Upload the previous image to IPFS.**
 Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmeJaufp9seXCpHMFwxX53P3oRQW8Ny1DduCXAxebEwxv7
-![screen1](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/8d901086-eeb1-4cfa-a356-3e05fcd9a15b)
-![screen1](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/5cd796b6-28dc-4739-ad18-2c9d5c7e14c8)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/4038f0ed-86fe-4b0d-be27-361758121278)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/cbdb24ff-31ad-45f9-b279-516bd6e2de0f)
 
 **Q2 - Now upload partition1 to IPFS. What do you observe compared to the torrent part?**
 ![screen1](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/8611ae46-c20c-446a-bf41-febfd83db1bf)
