@@ -23,8 +23,8 @@ On obtient ainsi les 3 fichiers torrent suivant:
 **Q1 - Upload the previous image to IPFS.**
 
 Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmeJaufp9seXCpHMFwxX53P3oRQW8Ny1DduCXAxebEwxv7
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/4038f0ed-86fe-4b0d-be27-361758121278)
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/cbdb24ff-31ad-45f9-b279-516bd6e2de0f)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/993ab4e1-a46e-4078-9499-cd8a32f4bf93)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/8b245002-cc39-4ec9-9f14-17a5504d96f3)
 
 **Q2 - Now upload partition1 to IPFS. What do you observe compared to the torrent part?**
 
