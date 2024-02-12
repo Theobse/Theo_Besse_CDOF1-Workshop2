@@ -36,13 +36,13 @@ Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmPKRGW6BQ3i
 **Q3 - Copy the partition1 folder and then generate the associated torrent. What do you observe?**
 
 Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmPKRGW6BQ3i4Z4W4etVogYDRqoJRyFRCcD5FJrPKgNJPK
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/1f1c4056-74f8-4985-8583-5c4a2a598a22)
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/f9dcdcc0-99d4-41d6-ac18-2be5a1f13715)
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/40d74624-c5f2-47a3-96c1-93c842755158)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/f4073e6e-4042-42ba-a05d-31d177bfca1b)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/e55f79f9-d72a-4a95-b990-0f3e7700672c)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/5479b3a6-b2b2-4163-8014-8e92c7271a52)
 
 ## Upload files on IPFS using Pinata
 
 On utilise le code javascript "pinata.js" afin d'importer des fichiers sur IPFS en utilisant Pinata grace à la clé qu'on a créé précédement sur Pinata.
-
 ![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/debee51b-9cb6-4757-9a39-1f4620c9617d)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/c3087063-d413-4476-8ca1-412dc33ff6cb)
 
