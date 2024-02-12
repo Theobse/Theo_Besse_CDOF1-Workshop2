@@ -16,7 +16,7 @@
    ```
 
 On obtient ainsi les 3 fichiers torrent suivant:
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/1f533d34-9efc-40a3-a7c0-d51660569d56)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/97495c76-d1ef-4300-bfdf-bf8e8d8ca09d)
 
 # IPFS
 
