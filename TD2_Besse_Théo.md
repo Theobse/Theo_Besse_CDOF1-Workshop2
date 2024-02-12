@@ -19,11 +19,15 @@
 
 **Q1 - Upload the previous image to IPFS.**
 Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmeJaufp9seXCpHMFwxX53P3oRQW8Ny1DduCXAxebEwxv7
-![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/4038f0ed-86fe-4b0d-be27-361758121278)![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/cbdb24ff-31ad-45f9-b279-516bd6e2de0f)
+![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/4038f0ed-86fe-4b0d-be27-361758121278)
+![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/cbdb24ff-31ad-45f9-b279-516bd6e2de0f)
 
 **Q2 - Now upload partition1 to IPFS. What do you observe compared to the torrent part?**
-![screen1](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/8611ae46-c20c-446a-bf41-febfd83db1bf)
-
+![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/a85664f1-9561-4b34-b813-5aba05844800)
+![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/6830ccc9-c00b-4e5e-bf44-f5a82c771a66)
+![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/22eda215-60b4-4178-9326-75aa23d044e9)
 
 **Q3 - Copy the partition1 folder and then generate the associated torrent. What do you observe?**
-![screen1](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/cd2270fb-8708-400c-8850-125c6ef84190)
+![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/1f1c4056-74f8-4985-8583-5c4a2a598a22)
+![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/f9dcdcc0-99d4-41d6-ac18-2be5a1f13715)
+![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/40d74624-c5f2-47a3-96c1-93c842755158)
