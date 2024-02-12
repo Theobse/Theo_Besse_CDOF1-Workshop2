@@ -29,9 +29,9 @@ Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmeJaufp9seX
 **Q2 - Now upload partition1 to IPFS. What do you observe compared to the torrent part?**
 
 Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmPKRGW6BQ3i4Z4W4etVogYDRqoJRyFRCcD5FJrPKgNJPK
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/a85664f1-9561-4b34-b813-5aba05844800)
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/6830ccc9-c00b-4e5e-bf44-f5a82c771a66)
-![image](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/22eda215-60b4-4178-9326-75aa23d044e9)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/f034e986-dfe2-4f77-9ea7-21f2e6b9132a)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/c82e0ed8-2e39-4d06-af65-835b76e79963)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/837c931a-e1c1-4182-bc51-19720d068ea2)
 
 **Q3 - Copy the partition1 folder and then generate the associated torrent. What do you observe?**
 
