@@ -19,4 +19,5 @@
 
 ## Q1 - Upload the previous image to IPFS.
 Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmeJaufp9seXCpHMFwxX53P3oRQW8Ny1DduCXAxebEwxv7
-![Screenshot](sans_titre.png)
+
+![Screenshot](C:\Users\Besse\Desktop\screen1.png)
