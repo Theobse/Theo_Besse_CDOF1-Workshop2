@@ -43,5 +43,5 @@ Après avoir importé l'image sur IPFS, on obtient le CID suivant : QmPKRGW6BQ3i
 ## Upload files on IPFS using Pinata
 
 On utilise le code javascript "pinata.js" afin d'importer des fichiers sur IPFS en utilisant Pinata grace à la clé qu'on a créé précédement sur Pinate.
-![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/2e069ed2-3a6d-4a3f-aa15-008674849109)
+![Sans titre](https://github.com/Theobse/Theo_Besse_CDOF1-Workshop2/assets/116637028/debee51b-9cb6-4757-9a39-1f4620c9617d)
 
